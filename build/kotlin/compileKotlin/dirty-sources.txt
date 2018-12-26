@@ -1,0 +1,1 @@
+/Users/maxfedosov/IdeaProjects/emailparser/src/main/kotlin/ru/fedosov/email/parser/Main.kt
